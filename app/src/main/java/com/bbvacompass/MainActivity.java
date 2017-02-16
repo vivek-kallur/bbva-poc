@@ -23,6 +23,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Toast;
 
 import com.bbvacompass.core.net.Command;
 import com.bbvacompass.core.net.Controller;
@@ -55,6 +56,8 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
 
     private static final String MAP_VIEW = "Map View";
 
+    private static final String SUCCESS = "OK";
+
     private static final int REQUEST_CODE_FINE_LOCATION = 1;
 
     private GoogleMap mMap;
@@ -68,7 +71,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
     private TextSearchModel mTextSearchModel;
 
     // use this to spoof the location to 32.8205865, -96.8714244
-    private static final boolean SPOOF = true;
+    private static final boolean SPOOF = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -108,6 +111,8 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         // Register the receiver here to listen to the response form http request
         IntentFilter intentFilter = new IntentFilter(Controller.RECEIVER_ACTION);
         LocalBroadcastManager.getInstance(this).registerReceiver(mBroadcastReceiver, intentFilter);
+        if (mMap != null && mLocation != null)
+            mMap.moveCamera(CameraUpdateFactory.newLatLng(new LatLng(mLocation.getLatitude(), mLocation.getLongitude())));
     }
 
     @Override
@@ -123,13 +128,14 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
             if (intent != null && Controller.RECEIVER_ACTION.equals(intent.getAction())) {
                 mTextSearchModel = intent.getParcelableExtra("RESPONSE");
 
-
-                if (mTextSearchModel != null) {
+                if (mTextSearchModel != null && SUCCESS.equalsIgnoreCase(mTextSearchModel.getStatus())) {
                     // Sort and set the list back to model
                     List<Place> placeArrayList = mTextSearchModel.getPlaceList();
                     Collections.sort(placeArrayList, new PlaceComparator(mLocation.getLatitude(), mLocation.getLongitude()));
                     mTextSearchModel.setPlaceList(placeArrayList);
                     plotMarkers(mTextSearchModel);
+                } else {
+                    Toast.makeText(MainActivity.this, mTextSearchModel.getStatus() != null ? mTextSearchModel.getStatus() : "Search Failed, Please try later.", Toast.LENGTH_SHORT).show();
                 }
             }
         }
