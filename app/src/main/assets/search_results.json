@@ -1,0 +1,801 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "CqQCEgEAACw7yHsFHyWIvKPI0kLqFy3am7R35lX7RpRjqZC2ZGYcbB1rZ7hozzepBb-RYCvJ6ktU2UjTBMud3A2QH2cGsjsO4A4SelxA8bVvXScPJ4ifyrAHbOuu37WH1EXsJfmMlOEcf4GxnPaGNDFuGmGhS96eq-uYynMu5eDNziFuTweNIyMkwGJQDOyPy7pWhbKWsL8aa8fmeX-gBPjAN5fAYHxyvwht5qmKTB2TyJADHiOCdH_gUviXgRoEQoo5hvQdX6lf0v678noMrkEuIPqzoAA3sxgNMbgaZ21JwIKhlrYqeHm2NF7rSwMY1yoSDb2hXJHlLkq6l4DFhEW81CklI1H-t1PIlm2Ajt7Oi419IazcQHIp9T5FrjJdX4cRe5wwJxIQ6T1pbz9NEtxxIZNdP--ibhoUAdy3gtzUOF1OEAWbqDMdrC3fP4s",
+  "results" : [
+    {
+      "formatted_address" : "2301 Cedar Springs Rd, Dallas, TX 75201, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.7954644,
+          "lng" : -96.80551709999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.79557375,
+            "lng" : -96.80519874999999
+          },
+          "southwest" : {
+            "lat" : 32.79542795,
+            "lng" : -96.80647215
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "2d8a557a29fe3327753eae733c9c5a8495c8b6d5",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115597073844787780265/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAACHxKhUVgFXfEyPkZ8B24xL34CV950H2C0KLc86ndM4Hgq6VNB5Nd_UvGe2JMBjs4mpEI8D_mddHkx0pF51x0r7yqaETGEuqQSYvDVad3i5x3JPV_DTaf89E3EngdCPAanwEXUySFnixZX4fx20EkpiGvAhOsTnXY7u06JAhgnaGEhAIJabY2k1GqrsxAjF1oqE5GhSnRy7StqK8Cv-50TvLBkoEUj--WQ",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJC2Q0UTCZToYRatDyuxI0Ig8",
+      "rating" : 3,
+      "reference" : "CmRRAAAAQH6xoxfVVmoB-q3WGXMJN33XgdlqvxX4_PCrLvH8Pl52QKRILxfwwFpn_iugZONHCFyCJbWe1WldPateSGGhLTHGpgd-jAlHMso4fHx7jZc3YJdoyCGrewlzWs1MCPrGEhA0nwQ4g3hLF1sE5y6sTbZ9GhQRSv9c-ATa5hpYk7YYQYnCjd5rrQ",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "4201 Oak Lawn Ave, Dallas, TX 75219, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.81984449999999,
+          "lng" : -96.80254749999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.82020465,
+            "lng" : -96.80250814999999
+          },
+          "southwest" : {
+            "lat" : 32.81972445,
+            "lng" : -96.80266555
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "5b4fe1dfff8eca5f70b0dcc2c1ff80f49437f52e",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106430290364453593586/photos\"\u003eDavid Fisher\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAMltpnFNfYGK93-9GQPX0cY1hHBujCHle-B7cKBRv6wLAkw5iQpAyWGQS1y4-9TqGcJOOxQPJYEOrS-7gqg-IZ31YJ011J4yyVPK2oeSnU22Bf5U0Lgh9cJRrpediDKw_f0dzhd0Hd5w2hHEL_k_IHD3E3wZntT39sFmiAD_IAy3EhA3PTDIMVo0SwTyqGgZuJ7PGhRnQ745XnIu1XxPzEALaF2oaYCbLA",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJaRCRSdueToYRwcZBPt11I6U",
+      "rating" : 3.3,
+      "reference" : "CmRSAAAATpACXtBF7Qq-AhuT80jOqR0anNy52hY5mzp6uwkbxcpKHZZWG0tk1Cxiz0mI8fby_YyJh1jOMMSnVI9DETKBDFU6oFPTJkcG0KahzrZ0m4a-SaU-T9AqvaXqEfSSEMyaEhBEJ2tkspMz_rD1_klU2dnsGhRgAETFVNcPU7T3cta_PL3r8nuORg",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "8080 N Central Expy #400, Dallas, TX 75206, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.8604714,
+          "lng" : -96.7691598
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.8606549,
+            "lng" : -96.76910645000001
+          },
+          "southwest" : {
+            "lat" : 32.8599209,
+            "lng" : -96.76931985
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "c380303990bb0efd817804c5a88aa11a7e2ffe67",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112457746562312901031/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAFQAAbFkNcfr-p01sY0J3IHlUlhwmIcD5dISHnd1xCH-i0l7XGT7gkwVXn2mrsTP96m0amJ2Ptz58wp5Xv2ppo-78G-f0uVJ-wa6EC_PibluFx-51FXFc6qf_smeb_f621AODJVEsrIHw6YjxB_h9qswiPIAJOiTRCjKSVl-iyYYEhANdyNaqbicAHriq8Tn8FPFGhSoOZbi-QZLUi5bEdXK0mYzuizcWQ",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJUY8WapifToYRxGBz89BcPrk",
+      "rating" : 5,
+      "reference" : "CmRSAAAAu7XE1A8Q42FfXiv6Qc9He2PG55d2e3AWV94EFRGUaOjMHFroICVe89Ot99M-QS2BYf3n2JODH2TJmo6n9mdECRqJaBlDM1iGatqpjHcuFXGt68IgCOuazNlTDpnyOZMEEhAbiqKY1nhswb77C3BxNrRjGhRxozitJr6-egGGUk7v3BfWWZ39qw",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "410 W Jefferson Blvd, Dallas, TX 75208, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.7428407,
+          "lng" : -96.8288889
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.74322635000001,
+            "lng" : -96.82886459999999
+          },
+          "southwest" : {
+            "lat" : 32.74271214999999,
+            "lng" : -96.82896179999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "c0d14f08f95043954e5336f9ae86c49cc347a49c",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104672778671024782770/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAHPZVeAr3Ee3to2N6PGhYg1wsFOQWiNJLRe-RejMKkxbUPRqTVWYE7jskELqmv_TQLLjhxbUu2WS61evlNdhaCy_ad9s8Fep2HtNdSGUGCRVb2xiXKXu6_XE0UJ4hMqrkn6fbgqBZKBj1PQYMGNeTZrqJCLmGVdx-QFQxlQI55TVEhAjqJ-BGuv0xalJu4XHFFD7GhT8KTORLt2Wxj5mBtdpx3yOuKN8aA",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJB3AnxY6ZToYRQOiAHqtdBj4",
+      "rating" : 4.2,
+      "reference" : "CmRRAAAA1Aj0wh60bpzrt-vGHlyUcEX6rqAm6qMuquyfniSsQ2STCAA9uVgk3fz_n5eoNkC7v7PGq_y2exKoBnc8QQ41VuxYS5WKGtmaBy0CYAr0ZHWI5SHNA7EvTD4-X_tiFgB2EhBIxdGT6jmgT2a-GTlATv3gGhRVh6uGgsDGbvaDnk1qlX6D0aFK8A",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "8303 Douglas Ave, Dallas, TX 75225, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.864047,
+          "lng" : -96.8087534
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.86409990000001,
+            "lng" : -96.80858105
+          },
+          "southwest" : {
+            "lat" : 32.8638883,
+            "lng" : -96.80881085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "00a9c5352592555818d446fea858da314b813863",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104901667962455042670/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAP2lBYI-ISU2TPDlOZU4IvcFZEO86E6XFZ2c9XNIHrz35m4-70gS5AbrV_cHYvRZMEeyPmKQOnyXt3TwT4DDKuRB8YyLNsv-Zp8sAynmsPhs9SzEH0MZ1IMic1z5kBdiJfH6tzWhYSBnKzPPtNVMB_sCgUlAqT3outh-fQuYpENlEhC58FbIE_HEBQOMPi72EzaVGhTRz43gMWidAugpNXupFYpGaaopuw",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJjbA5j0OeToYR76Z3Pb8I-to",
+      "rating" : 3,
+      "reference" : "CmRSAAAASG2T0V9wgWsN5_I3S-6HDfaGvgIC7ISUKaOc7UiXJEHzsYileSW4GUGoFIdIK1bXRw1p2W-anj0asPZhPbW79s_9W_pXjdYJju_KwaY4TJFz32HkmobYz9owK2bwWqPzEhAkpt7T5sSG5Bn74_fvzNo0GhRenP8Xz7agKJSoy7gO5eADIGwVkA",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "11705 Preston Rd, Dallas, TX 75230, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.9087852,
+          "lng" : -96.8045753
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.90879705,
+            "lng" : -96.80427215
+          },
+          "southwest" : {
+            "lat" : 32.90874965,
+            "lng" : -96.80467634999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "69518d65dd69f48df5562fa8d1b992fd4d63c8ad",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104138272210183064221/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAHNt2T4ZH4uw2gxau3Th-53erAtLnX2Hasmi6AFG9j9QhwDbmKaj-pQmDhJzUDtEGYuXmvc8m7sb9J4nmWyaAZS-f6uQOFjpbiTLEU0aB9A0Mls45wWTouQ4O5Hb9rXJGjTA5k9egq4gQtcKbUek5qTO6OctdmTf9Fi_o4JCLTGNEhDaOSH-IGrbEtW3rMh29Jo-GhTaUv_LSNgSJl6k_kjO-mtD8eSBKg",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJdbW5uZEgTIYRsDijOY78veA",
+      "rating" : 2.3,
+      "reference" : "CmRSAAAAdsqnKWVqAKvo1ygQ-Wg5Kwl6xEbatJA76LyHHOI8lth_DnNBwtG4TMda7-qDqh4LsGO0C48FTtYHL8bD2or8aDMJoS3n8u00h1t-lXbOu1TucB9ola2i5E3p-JShv2nhEhANq7gRfthSIApyB-lO_f2IGhRfoPb70Xb2r4WnEnMTknO1KdEF5Q",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "2923 W Northwest Hwy, Dallas, TX 75220, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.8567815,
+          "lng" : -96.87148929999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.85685805,
+            "lng" : -96.87141405
+          },
+          "southwest" : {
+            "lat" : 32.85655185,
+            "lng" : -96.87171504999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "af3fabb7caadcb465afab06d0820fb7aa27409ec",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116479026921515410546/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAMBAcI0Gu8RBladVtU8ZzqBzL6rA2zN6GfFxDCqiZrPhOyyfAa0ZFbGLWVyVrJzHFvvoe5PjEmQ0BOAZDLSCiQBMYsjqDR5TkK5EPIC47SJUxEDBpDOi14pXMV4G1iQLnxm4rWvfZBVuSaa6OR5FRMn14wfrv0PHo6zBmYAlIHNWEhC9Q3RtR9EweP0QY7yKJjokGhS5MWc7cFIgDVI3tOb-GQ3cDKzc4g",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJL9SM9aWdToYRNZ4FPBu_by8",
+      "rating" : 4.2,
+      "reference" : "CmRRAAAAYAtEUT1qHchlyOCMDoUK68LVZFxWMOeMugqK_z69DgAbPE0Bf8YzI9EMje1BepbgR3bCpsGbnknGrSN5Sa5sBjq6br6SvNpT8zKe4dObLUtZoCxEZtq7bemBaw3SQESKEhCOw379s6h8kDeY1dwrWovpGhRnxwe9bwiV261hDJO4IO7L8Tl1kg",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "14001 Dallas Pkwy #100, Dallas, TX 75240, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.9362587,
+          "lng" : -96.82319409999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.9362746,
+            "lng" : -96.82304445
+          },
+          "southwest" : {
+            "lat" : 32.93621100000001,
+            "lng" : -96.82364304999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "6937c40aee8f6c24482a826de8138c8fd3fa31a0",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107995888660115697038/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAANqkGkNciIj896RbKMWqfrUCxoyBxTDK0UHjVRbbTwyjObnNXacHhXby36CBPPEtmnmc22ZomTexvmr9DvVT4nu28ZW_lIEmGfd6GG69ENUEJWaO2MV6HWTwzGzwz-fFiHFcNcTOjQpy8BQbbtsMVDOdqXKdjkVAgaYFGIcVNWZEEhDA_QtnZR5ACofsp0U4-td0GhTaSiayJcx1uMRXGXCFVPCRt5xOJw",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJd3OuXNggTIYR4uFTdrADQm0",
+      "rating" : 3.7,
+      "reference" : "CmRRAAAAs9hcVZTM1pAgVTzhpkBi-s-hJmwDi3WAfqL2uqdbz2LG875ZXXt4-7zaMkZzBdsIAfMiyVfnmR9kjNzTrByrFDGqywYAiREjHwSuEHEe5fObS83aVbVfy9WrL6bt7aiFEhDiuWFE7dsZo6LmJO69XPNOGhQAk-LfMSJaAPa6WAkIrfpOYTP-1g",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "2307 W Illinois Ave, Dallas, TX 75224, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.7207144,
+          "lng" : -96.85591339999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.7207873,
+            "lng" : -96.8559128
+          },
+          "southwest" : {
+            "lat" : 32.7204957,
+            "lng" : -96.8559152
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "22d4c7a4f85320d7d7437d1df4a66dd1c63d35f7",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111172957502282437497/photos\"\u003ebuliga levi\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAGrITDgoUCOWbNUxTp3hlBRqc3mYjK8tM9JHeshfOoimbIIueEHJqQexavKO4gosLDz-T62fOCBRzxr7Fp2_dvqZhJDrAZBdSXmx8eZhYjlgFoF6NGKfJs3hffe5umUFHvLvoOmoStTX_BAkpqzHKXSe4rUcksgm8tRA5DLJT1m4EhDeATlGGqX54t-ZlWCnusEAGhSRcLPQaQpujokUwz5GXIZRCj3Ncg",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJP-ThLQ2aToYRzbQs4Fw-MbE",
+      "rating" : 3.5,
+      "reference" : "CmRSAAAAbdNmWJHQFm2hfF_gSaFIO09Ae0HGlJIVsA5qFelJ4ws9H8VTVU8G4-61du7k5vVJj4RxmsfC3KVyubcnbxGpuM35sTZa_vW0-LmY1yMnf8DoElPYazHaIssqAz-n2mDwEhCCmzcCWAJvaTv27Anvg9mzGhTbx4griSYpJug7pkqjF9Ik98NNAQ",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "6501 Hillcrest Ave, Dallas, TX 75205, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.84562210000001,
+          "lng" : -96.7873656
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.84566375000001,
+            "lng" : -96.78719579999999
+          },
+          "southwest" : {
+            "lat" : 32.84549715,
+            "lng" : -96.78742219999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "3e71e708fe16d476912f114a0fabc93f74e12a4d",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117008257761126128948/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAACChGnTb-qoH3smPc7DBBJggpVDMXSboHMEW-t5rA5BCKr1A63237ERvossFyKdq-wbcAIUUU3j68nmJ5jgHct_MhOFaRwvycHS_XuVvhLaRcmOjEyiCuIHVODGB333cfPAaB-O5VCgz94AOyjW7DKNzuTnLxLo4W8Aw8PiLio75EhDNJooUq9vXhgo7xjWTS0-gGhTNnRfJi5xj8T_1bp2THGgCyA_DrQ",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJMVwaSgGfToYRRIvDo4BQWxI",
+      "rating" : 5,
+      "reference" : "CmRRAAAAg1mxVRH0115zaCzqTuu5h35qgbKTPQAKCE1JwM7T1N9DhdvRdMcoIl70Q1nMK1syn6sgp_FOJGt551H_-5COKQVEqmWbhhw_noxizt6YhOslXWn1r_QSgF7IFWIjspTuEhCLB93efLqfRqaXqhEICisvGhRbPCcfMoTV_4m79YViA9UcEBN57A",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "2209 W Northwest Hwy, Dallas, TX 75220, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.8643576,
+          "lng" : -96.89834289999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.8644938,
+            "lng" : -96.89828899999998
+          },
+          "southwest" : {
+            "lat" : 32.86394900000001,
+            "lng" : -96.89850460000001
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "12db4a0bfe54fcac93c816bff9b011b08b759bce",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 3328,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101102124576589178208/photos\"\u003eElena Barsa\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAEAY3Ze041QkWxnUeNdLmFJQlFFZoKmePWjQ8y9RFMuQ-l87vuj_OvGCIlAZnQyYmV-gzweSJaE_JFyuf5gsBq_OYQbk9yHylBFMYbzCrRWLQ8Z4N7b08PkwD2CerbTz6To5OWRZVK7USgH75QmFuAYXCZyfYFowVluNVFZdk42oEhAGDnqCGaSzmzxskdsIKuEeGhSrYgvH7wvdxqQTdG3wcK8_aoG6Tg",
+          "width" : 1872
+        }
+      ],
+      "place_id" : "ChIJv0qlExWdToYRLuyk2hbhZv8",
+      "rating" : 4.5,
+      "reference" : "CmRSAAAAtW4Y3C1a5yod9aw8I3MO_FKu3mTjE6ZNg94bvo0eA7Sf2HTvME5KCDdK70UE2dGjnaQYhsC2cGzxaHdV21rHPxvDBOU-HUhJv750TlWC0a45eyiaK_UJjm-fpBXie0gWEhAAA0sbBjUP_No36PEBClj9GhTk2SMZcNgd4X5Cx1u197cLhEaWiQ",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "1134 N Buckner Blvd, Dallas, TX 75218, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.8349542,
+          "lng" : -96.7031131
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.8350066,
+            "lng" : -96.70304659999998
+          },
+          "southwest" : {
+            "lat" : 32.834797,
+            "lng" : -96.70331259999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "dcc07bedf5c9db82d61e5ec906bc389f8beb1542",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115537591438804652715/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAALtbhBpdnev9H3OiMqj6zFiTf4gwl2Cm2pMdUoQiVnFvnGjr4YYSsSdRu-iyMKjpBgsv4F98kPH53SNx-1Sth13MUHyXzSjhmXtHrYpNRc3e8lIf0W9noIJ44FtGA5me8VmyAEHw4WCwirGS11aFLlW5YrUvuz89a4kvDElCwRlPEhAQJiIiff0-n1x_YwxnULItGhSI7jnkFOO8zDyIiYpS_x29kXWyAQ",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJ1VmorAuhToYRxHWh4rEKBhk",
+      "rating" : 3.3,
+      "reference" : "CmRRAAAAon2VMSbzbAqLDurKjt6d1Ze7JeQY8yZNh0PRPcI0h3EdI7TQax3FjbeJjiOSuKW6Qx9IQzF_hYejvcRL9iqzS18SAVBOh7WvHrBidyPd_dk1ybjoq1nbCfnwmqAmm1nGEhBm0idrTzKiswm2n7j6eNZtGhTj_ltiu2N4dHrVABMR7wfWLqwxCQ",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "14852 Preston Rd, Dallas, TX 75254, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.9502902,
+          "lng" : -96.8030675
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.95029884999999,
+            "lng" : -96.80298745
+          },
+          "southwest" : {
+            "lat" : 32.95026425,
+            "lng" : -96.80330764999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "3c043e7d7deb8474380ff1aa462ce272937b229a",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117322144995691892374/photos\"\u003eRobertson Catorce\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAAeB9rEP7YilqUPyVhpyO1aipJqkqy_wbGEPTLZxZGSoXpoVcpozvnqBvCjPCTv0WGm-s_qNK8Psg9vCbsAvAWXBRt6TwORCsr0Fq8G8VnuV9AMQY2VQkiXA5ir0Hv8XQ5tZX_xFu6TGArcevZlKamaQugcLRTe1vHNjVlKZMLH1EhDyVHCRCkzdDbh4WyEBirm0GhRklHVnn4XvoeefUCJq6GdDhsSxdg",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJ3wIrABAhTIYRtXh-hr5CJ-c",
+      "rating" : 1.3,
+      "reference" : "CmRSAAAA_-aUpYGvOtoowI6UX4NHaz7_M6rhVBmkHHvvw2I-KeMEwwxul93QYIk_mcg8CezeyfF0FheUuRgzNQT7Jv-ThXtDUVVYQmKs9CW1XAVSA6FJIZSyM-y57QGUV2t1UadLEhCm9jKnMNhJrjEQO6QwASbhGhTS5tsXngmq4Av2l55oh2-CGcOoNg",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "7777 Forest Ln c, Dallas, TX 75230, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.91121599999999,
+          "lng" : -96.77255
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "4588f2040549f6e571f4e0c6b7a2a3080e735506",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101438117035981290123/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAALCeyhr9tD0Sih_U3GsvkHK0-vtOwcqRkUgs_dLO-XIzstfIHYwkjqkkXetdSsST_RvJzNKF2VMy0s9HRSFul66RESG4ey1TJMO8yIRbX5pldXtd2f4qt-hyvCCtMeRXUar9f_sGf5AS2sZcCrxBbzYms10Gc-Z8txsL9Jn9iHW0EhD9wyl6M9v72BnEtLN155rHGhSoDEjnCEAFvLIQv3pUxWbJprdYjQ",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJw5I1L20gTIYRjGxOcqHyjj0",
+      "rating" : 3,
+      "reference" : "CmRRAAAAf04jlplsFqdrDSgwYixzwD06C7iRXiGjt81y9Y0A0Z6CyveKomxfal6bbB691itZDFRnp1ndXcDrQxJRTQDZ5F4xGnaUTqqWmb19LaZmduOZthWROqeIzuuJl5ZKLuo6EhAQucttFgKDc0XMF51CrGshGhQjl0cNvXil-Zkv4gFtgtG-XPpqbQ",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "3939 St Francis Ave, Dallas, TX 75228, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.7937182,
+          "lng" : -96.691771
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.79372585,
+            "lng" : -96.69139989999999
+          },
+          "southwest" : {
+            "lat" : 32.79371565,
+            "lng" : -96.69189469999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "16f81c008294c2c635ea615ff3fbe22962d9ef07",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 732,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106161665312106532154/photos\"\u003eJustin Blackmon\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAFTEFxJkJVTjTN8TIsI4jvDwoIKHbls39LZ15dgdvjWmfTIWMzaWaHiV7dcvKDSMnLIKhHpDUeVMJ0ONV5JIjV2Psk88GVzxW4aoDoBibR95rjTq_qS3l9BngjK9jAx27VxvVk-xFaVZvTkXaZDZkgiYz5Sw06QhRmXslq1DcLYTEhA46dw3uvWGAOVLmg2ft_AnGhT5Wg1S4v2hzKMjUHwYNc4Q1HiwHQ",
+          "width" : 720
+        }
+      ],
+      "place_id" : "ChIJ-ZwsGcSjToYRgQ0QESv6TUE",
+      "rating" : 2,
+      "reference" : "CmRRAAAAxZeJMXJM-u71C5D5vm02PBQb5-bPNo1uz3B2OQOmDLSunL4o-ZG-hrWeBZ1BrJNSuhOAZGiww9zy6sp0l3_3pjxwQYKCbd74tXzD5sCyeRNld3goyvO6A8DZDiJAhFX1EhDdEe6ePySI-ZGOsuTitjngGhS-EgFt4FphfWi-yY4W3kU-aXuP-w",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "1824 Abrams Pkwy, Dallas, TX 75214, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.8123204,
+          "lng" : -96.75261449999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.81240769999999,
+            "lng" : -96.75255824999999
+          },
+          "southwest" : {
+            "lat" : 32.8122913,
+            "lng" : -96.75278324999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "a55d6c1ede8af4549805bbda11aa44a2079e05e3",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101243214394349401731/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAIyRYaCx5g2nOSgeVYV0Dqc2Gwse-71s-QMNVwp1gU_kyGhgh3uoDuPHmuly_jDT1UIh36pgnZlSyhoWGqXs3ME4J0Idctz_SvTRaKnEzGMNTiFeV6GTjCHTht2t9465_y4kn35viIGzKEg5Oa_xXCpuQ6wSoVeRgbuK3j64tX2fEhBbMH-lHQSOL1GYXPc5nzfXGhSnFcbl6xbGHv3nXJV2qJsO3QTWIA",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJFyMUIFSfToYRR9aE5iF1pHM",
+      "rating" : 4.2,
+      "reference" : "CmRRAAAA91ce6yig0A7cXiATNP6MJIDjrwBM-vCy8fOBOpbBQ48xeCJhY6dfiPdhZ-hPfs-c97u_f-d5uAlBJURs7CSow-I7esGKcFJVJ3TxTDnGBI_JaBh_iSCbXTpCRU1BpSebEhDDo1nY-TkKR1QQR_KGP6pPGhTsWg1DaHbd9twadDCt5jsm6qIWSA",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "6240 E Mockingbird Ln, Dallas, TX 75214, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.835992,
+          "lng" : -96.756445
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.8363487,
+            "lng" : -96.75639495
+          },
+          "southwest" : {
+            "lat" : 32.83587309999999,
+            "lng" : -96.75659515000001
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "1340dd9d86ad0bbcef07f1a03be48b80f089200f",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 2482,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109051028098597253996/photos\"\u003eDaniel Shanks\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAANscCRVQC1VI1oKnOAuwK9zgUZ3NPxYfw89mmiyLr7m1CBXtkoI6gEXAZ20IzNHzdmgmTEq86CnlQKgKwU70vXfSuPCBA5Ed-un9j8yv05n_WsWHEbfcHwA6kwXL6i1eGb9bVHVCOx4DNDov8rn0yPwchqKzm23nTzGfoMeknZYkEhC0cRWTRSlExhr6G3l733anGhQVxeIqsEfygrrgWNiEu_lEMjARgg",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJFxwyOWSfToYR8-QKLWfWuOA",
+      "rating" : 3.5,
+      "reference" : "CmRSAAAA8w6UnaT-tqPuF8nrOQQXY_uxZGm8B5s3wstGkcMlOayRuiGYqxHeeKzXkUWvwHaJEVFBi1w0CpzRMegEUeslsywxnjiIlBOK4YTFYCrhQmyyMNQOFr7lVw7_KYVHbQ8KEhAQoXBWTg9yxfgYx0AbspsXGhTKY3StbRkuLvzRlQIKIcC_vEgI_A",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "9090 Skillman St #100, Dallas, TX 75243, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.8973024,
+          "lng" : -96.71903549999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.89769239999999,
+            "lng" : -96.7190227
+          },
+          "southwest" : {
+            "lat" : 32.89717240000001,
+            "lng" : -96.7190739
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "7f4aa8e99805f25121757671e9a8cba17d0f780f",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102977222217804778933/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAABrS1qL5kcg5ns56ySgE_MBR0uk-9aQpToWf5Mp39YtyvYa19xVG2Ngl7e7dguJxzhpfOoPhvG3DgKCTmRFW35w0adkw553gOhUHhRxggTsMzQtVlzw4Bi9bZbQQwx53uis_lBf0BXn9oMEoQsqVt2AZNh845WzXTQ44KI9WjG55EhDKnXd0z9hITye4NZq7MGYHGhRDAjn8TlpSC8Z1rEaGSJBWCis-yw",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJoa9AbnagToYR0lFioAX_AU8",
+      "rating" : 3.8,
+      "reference" : "CmRRAAAAYPO0JZKl-YlNfMTnEu360TZUjqkUxE3yTTuMo38n6QJnsOtR1MIwi_ikmRBqtESoh8ljtQFw4rvZO8dHa0G_LSEiZjuaU-SGSwMzURdtSH08mKbHwBkGWg1rrxk_V2AbEhC6e3FxYFMCi2_sAXBsLhlqGhS0xRIQ5zNMAd_tDsX_vegdmm9Mfg",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "17218 Preston Rd #1000, Dallas, TX 75252, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.9851392,
+          "lng" : -96.8031402
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.98524195,
+            "lng" : -96.80310615
+          },
+          "southwest" : {
+            "lat" : 32.98483095,
+            "lng" : -96.80324234999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id" : "1a643c13f20e5e2a027fd161cb75162a44e96ec9",
+      "name" : "BBVA Compass",
+      "opening_hours" : {
+        "exceptional_date" : [],
+        "open_now" : true,
+        "weekday_text" : []
+      },
+      "photos" : [
+        {
+          "height" : 289,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113480377964948241306/photos\"\u003eBBVA Compass\u003c/a\u003e"
+          ],
+          "photo_reference" : "CoQBdwAAAIK2sztbIRp7A0O9TmFTKOZEIA3sBO7QYAgIuIl-5K2yBISBpYEYRcwWONI8zkqpUr_VuU0W06T2FLYILs8gpi9A7mPHYPVaLjP0TDpt4gR-v9fwFWORdPD2QJ9bTUnVl9T8TnJpYj_S-2oYfBsmMHf3DnRlAhG4ZoiPjVjCa45LEhD07W3GYFk5p4bT_0T4o2eGGhS5jhJ094YQ5hmR76vf1888v3TEgw",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJxUeOPdgjTIYROX511jttqL0",
+      "rating" : 3.7,
+      "reference" : "CmRSAAAAFzY0UDQtVe7S3G8FrzE46bRm3XZ3Cw5aEe8dohk7O1gbYkt3o-vl6Ze45CqT-mM0UEiCZnH4S5nZH7VMhs6HGFWRnvyvuaNT46b7kLmBWpMrTyP1o63xqCXHxRhHN69jEhAHnnKUneiEBHnxwcCLJWocGhSIE5jRE4IqliOInN3xrzyqtBMiPw",
+      "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ]
+    },
+    {
+      "formatted_address" : "1445 Ross Ave # 4200, Dallas, TX 75202, United States",
+      "geometry" : {
+        "location" : {
+          "lat" : 32.7847875,
+          "lng" : -96.80264179999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 32.78496435,
+            "lng" : -96.8020604
+          },
+          "southwest" : {
+            "lat" : 32.78425694999999,
+            "lng" : -96.80283559999998
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "aed5e1296d9299887a81c253044680b991157728",
+      "name" : "BBVA Compass Insurance",
+      "place_id" : "ChIJyyClKiOZToYRxwSXQEXdlVY",
+      "reference" : "CmRRAAAAywlI00mZUe3IUjVYPB9mHXWgY1ddzAMgojodRGb5vXVUZj495mzMtf5SSUVINBB9zDM0K6TItkgMBvUAQ43dAHCRsa67xAhLaFbBODYtt4UYri1NIaB3xGkS2Y1K5bNKEhDxOmJeWxJFkDPCX8puRPX7GhTvlqz9Ctqs4aI2qAsE5yH4BcSOFg",
+      "types" : [ "insurance_agency", "point_of_interest", "establishment" ]
+    }
+  ],
+  "status" : "OK"
+}
