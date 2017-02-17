@@ -2,6 +2,7 @@ package com.bbvacompass;
 
 import android.app.Fragment;
 import android.app.FragmentTransaction;
+import android.app.ProgressDialog;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -13,6 +14,7 @@ import android.os.PersistableBundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
@@ -23,6 +25,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.bbvacompass.core.net.Command;
@@ -70,6 +73,8 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
 
     private TextSearchModel mTextSearchModel;
 
+    private ProgressDialog mProgressDialog;
+
     // use this to spoof the location to 32.8205865, -96.8714244
     private static final boolean SPOOF = false;
 
@@ -97,6 +102,9 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
                     .addApi(LocationServices.API)
                     .build();
         }
+
+        mProgressDialog = new ProgressDialog(this);
+
     }
 
     @Override
@@ -124,7 +132,6 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
     private BroadcastReceiver mBroadcastReceiver = new BroadcastReceiver() {
         @Override
         public void onReceive(Context context, Intent intent) {
-            // TODO dismiss progress dialog
             if (intent != null && Controller.RECEIVER_ACTION.equals(intent.getAction())) {
                 mTextSearchModel = intent.getParcelableExtra("RESPONSE");
 
@@ -135,11 +142,15 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
                     mTextSearchModel.setPlaceList(placeArrayList);
                     plotMarkers(mTextSearchModel);
                 } else {
-                    Toast.makeText(MainActivity.this, mTextSearchModel.getStatus() != null ? mTextSearchModel.getStatus() : "Search Failed, Please try later.", Toast.LENGTH_SHORT).show();
+                    showToastMessage(mTextSearchModel.getStatus() != null ? mTextSearchModel.getStatus() : "Search Failed, Please try later.");
                 }
             }
         }
     };
+
+    private void showToastMessage(String message) {
+        Toast.makeText(MainActivity.this, message, Toast.LENGTH_SHORT).show();
+    }
 
     // plot the markers
     private void plotMarkers(TextSearchModel textSearchModel) {
@@ -173,6 +184,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         } catch (IllegalStateException e) {
 
         }
+        mProgressDialog.dismiss();
     }
 
 
@@ -208,6 +220,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         @Override
         public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
             // TODO
+            showToastMessage("Failed to get current location: " + connectionResult.getErrorMessage());
         }
     };
 
@@ -244,6 +257,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         params.putDouble("LNG", lng);
         params.putString("KEY", getString(R.string.google_maps_key));
         // start async task only if search model is null
+        mProgressDialog.show();
         if (mTextSearchModel == null)
             Command.SEARCH_TEXT.execute(Command.SEARCH_TEXT, this, params, true);
         else
@@ -265,7 +279,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
     /**
      * Manipulates the map once available.
      * This callback is triggered when the map is ready to be used.
-     *
+     * <p>
      * If Google Play services is not installed on the device, the user will be prompted to install
      * it inside the SupportMapFragment. This method will only be triggered once the user has
      * installed Google Play services and returned to the app.
@@ -329,6 +343,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
 
     /**
      * TODO handle the use case when back pressed is used from the list fragment
+     *
      * @param item
      * @return
      */
